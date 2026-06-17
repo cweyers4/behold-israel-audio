@@ -6,12 +6,30 @@
     <language>en-us</language>
     <description>Text posts from Amir Tsarfati's Behold Israel Telegram channel, read aloud as a daily audio episode. Unofficial, personal-use feed.</description>
     <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
-    <itunes:summary>Text posts from Amir Tsarfati's Behold Israel Telegram channel, read aloud as a daily audio episode.</itunes:summary>
-    <itunes:owner><itunes:name>Behold Israel Audio</itunes:name></itunes:owner>
     <itunes:image href="https://cweyers4.github.io/behold-israel-audio/cover.jpg"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <image><url>https://cweyers4.github.io/behold-israel-audio/cover.jpg</url><title>Behold Israel — Telegram Audio</title><link>https://cweyers4.github.io/behold-israel-audio/</link></image>
+    <item>
+      <title>Behold Israel — Tuesday, April 7, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Tuesday, April 7, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-04-07.mp3" length="7644234" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-04-07</guid>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:31:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Monday, April 6, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Monday, April 6, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-04-06.mp3" length="2939225" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-04-06</guid>
+      <pubDate>Mon, 06 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:08:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Behold Israel — Sunday, April 5, 2026</title>
       <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Sunday, April 5, 2026, read aloud.</description>
