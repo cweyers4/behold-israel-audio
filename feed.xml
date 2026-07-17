@@ -6,12 +6,220 @@
     <language>en-us</language>
     <description>Text posts from Amir Tsarfati's Behold Israel Telegram channel, read aloud as a daily audio episode. Unofficial, personal-use feed.</description>
     <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
-    <itunes:summary>Text posts from Amir Tsarfati's Behold Israel Telegram channel, read aloud as a daily audio episode.</itunes:summary>
-    <itunes:owner><itunes:name>Behold Israel Audio</itunes:name></itunes:owner>
     <itunes:image href="https://cweyers4.github.io/behold-israel-audio/cover.jpg"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <image><url>https://cweyers4.github.io/behold-israel-audio/cover.jpg</url><title>Behold Israel — Telegram Audio</title><link>https://cweyers4.github.io/behold-israel-audio/</link></image>
+    <item>
+      <title>Behold Israel — Thursday, July 9, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Thursday, July 9, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-09.mp3" length="2020794" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:05:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Wednesday, July 8, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Wednesday, July 8, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-08.mp3" length="1262347" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:03:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Tuesday, July 7, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Tuesday, July 7, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-07.mp3" length="2550713" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:07:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Monday, July 6, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Monday, July 6, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-06.mp3" length="572728" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:01:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Sunday, July 5, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Sunday, July 5, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-05.mp3" length="1459048" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Saturday, July 4, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Saturday, July 4, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-04.mp3" length="1640922" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Friday, July 3, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Friday, July 3, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-03.mp3" length="726808" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-03</guid>
+      <pubDate>Fri, 03 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:02:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Thursday, July 2, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Thursday, July 2, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-02.mp3" length="1112874" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:03:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Wednesday, July 1, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Wednesday, July 1, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-07-01.mp3" length="3295915" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:09:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Tuesday, June 30, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Tuesday, June 30, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-30.mp3" length="1103946" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-30</guid>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:03:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Monday, June 29, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Monday, June 29, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-29.mp3" length="1916969" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-29</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Sunday, June 28, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Sunday, June 28, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-28.mp3" length="1094153" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Saturday, June 27, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Saturday, June 27, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-27.mp3" length="3955291" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-27</guid>
+      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:10:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Friday, June 26, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Friday, June 26, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-26.mp3" length="1124681" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-26</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:03:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Thursday, June 25, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Thursday, June 25, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-25.mp3" length="415195" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-25</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:01:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Wednesday, June 24, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Wednesday, June 24, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-24.mp3" length="1974860" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-24</guid>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:05:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Tuesday, June 23, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Tuesday, June 23, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-23.mp3" length="705642" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-23</guid>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:01:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Monday, June 22, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Monday, June 22, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-22.mp3" length="3601481" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-22</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Sunday, June 21, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Sunday, June 21, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-21.mp3" length="4215209" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-21</guid>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:11:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Saturday, June 20, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Saturday, June 20, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-20.mp3" length="1142395" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-20</guid>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:03:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Behold Israel — Friday, June 19, 2026</title>
+      <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Friday, June 19, 2026, read aloud.</description>
+      <itunes:author>Amir Tsarfati (Behold Israel)</itunes:author>
+      <enclosure url="https://cweyers4.github.io/behold-israel-audio/2026-06-19.mp3" length="4907561" type="audio/mpeg"/>
+      <guid isPermaLink="false">beholdisrael-2026-06-19</guid>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:13:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Behold Israel — Thursday, June 18, 2026</title>
       <description>All text posts from the Behold Israel Telegram channel (Amir Tsarfati) for Thursday, June 18, 2026, read aloud.</description>
